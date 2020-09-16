@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4038" started-at="2020-09-11T22:11:53 IST" finished-at="2020-09-11T22:11:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4038" started-at="2020-09-11T22:11:53 IST" finished-at="2020-09-11T22:11:57 IST">
+      <class name="automaterest.proj_two">
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:automaterest.proj_two@b7f23d9]" name="launchurl" is-config="true" duration-ms="695" started-at="2020-09-11T22:11:53 IST" finished-at="2020-09-11T22:11:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method status="PASS" signature="createpayload()[pri:0, instance:automaterest.proj_two@b7f23d9]" name="createpayload" duration-ms="2956" started-at="2020-09-11T22:11:54 IST" finished-at="2020-09-11T22:11:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createpayload -->
+        <test-method status="PASS" signature="getIdpayload()[pri:0, instance:automaterest.proj_two@b7f23d9]" name="getIdpayload" duration-ms="329" started-at="2020-09-11T22:11:56 IST" finished-at="2020-09-11T22:11:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIdpayload -->
+      </class> <!-- automaterest.proj_two -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
